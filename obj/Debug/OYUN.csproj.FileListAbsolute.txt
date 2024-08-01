@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\OYUN\OYUN\bin\Debug\OYUN.exe.config
+C:\Users\lenovo\source\repos\OYUN\OYUN\bin\Debug\OYUN.exe
+C:\Users\lenovo\source\repos\OYUN\OYUN\bin\Debug\OYUN.pdb
+C:\Users\lenovo\source\repos\OYUN\OYUN\obj\Debug\OYUN.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\OYUN\OYUN\obj\Debug\OYUN.Form1.resources
+C:\Users\lenovo\source\repos\OYUN\OYUN\obj\Debug\OYUN.Properties.Resources.resources
+C:\Users\lenovo\source\repos\OYUN\OYUN\obj\Debug\OYUN.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\OYUN\OYUN\obj\Debug\OYUN.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\OYUN\OYUN\obj\Debug\OYUN.exe
+C:\Users\lenovo\source\repos\OYUN\OYUN\obj\Debug\OYUN.pdb
